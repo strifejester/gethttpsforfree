@@ -1,18 +1,11 @@
 # Get HTTPS for free!
 
-Website: https://gethttpsforfree.com
+Website: Coming Soon. I am continuing work on what appears to be a no longer supported version of https://gethttpsforfree.com
 
 This is a project that allows you to get a free HTTPS certificate without
 having to install any software or having to share your private keys with anyone.
 It uses the non-profit [Let's Encrypt](https://letsencrypt.org/) certificate
 authority to issue the free certificates. Hooray for free certs!
-
-##Donate
-
-If this script is useful to you, please donate to the EFF. I don't work there,
-but they do fantastic work.
-
-[https://eff.org/donate/](https://eff.org/donate/)
 
 ##How to use this website
 
@@ -184,6 +177,3 @@ TODO (pull requests welcome):
 * CSS more than 5 kilobytes
 * Javascript that only changes UI
 * HTML that decreases source readability (added wrapping divs, etc.)
-
-This website is supposed to [work](http://motherfuckingwebsite.com/), nothing more.
-
