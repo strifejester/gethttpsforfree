@@ -1,6 +1,6 @@
 # Get HTTPS for free!
 
-Website: Coming Soon. I am continuing work on what appears to be a no longer supported version of https://gethttpsforfree.com
+Website: https://digitocean.justinellenbecker.com/freehttps ***I am continuing work on what appears to be a no longer supported version of https://gethttpsforfree.com
 
 This is a project that allows you to get a free HTTPS certificate without
 having to install any software or having to share your private keys with anyone.
@@ -9,7 +9,7 @@ authority to issue the free certificates. Hooray for free certs!
 
 ##How to use this website
 
-Go to: https://gethttpsforfree.com
+Go to: https://digitocean.justinellenbecker.com/freehttps 
 
 The website works by generating commands for you to run in your terminal, then
 making requests to the Let's Encrypt ACME API to issue your certificate. Simply
